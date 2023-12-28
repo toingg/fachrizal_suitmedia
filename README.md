@@ -1,6 +1,6 @@
 # fachrizal_suitmedia
 
-A new Flutter project.
+[Flutter 3.13.4] Competency Test for Suitmedia Kampus Merdeka Batch 6: Mobile Developer Intern 2023 - NEW
 
 ## Getting Started
 
